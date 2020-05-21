@@ -7,3 +7,17 @@
     height: 50px;
     background-color: black;
 }
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.cart{
+    color: wheat;
+    float: right;
+    margin-top: 6px;
+    text-align: center;
+}
+.cart a{
+    color: white;
+    text-decoration: none;
+}
