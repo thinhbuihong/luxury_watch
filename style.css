@@ -93,3 +93,38 @@
     clear: both;
 }
 /* end menu  */
+
+
+/* banner  */
+.banner img{
+    width: 100%;
+}
+/* end banner  */
+
+/* news product */
+.news-product{
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+}
+.news-product .new-product{
+    margin-right: 20px;
+}
+/* end news product */
+
+/* products */
+.products{
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.products .product{
+    padding: 30px 30px;
+    margin: 10px;
+    border: 1px solid sandybrown;
+}
+.products .product .product-img{
+    text-align: center;
+}
+/* end products */
